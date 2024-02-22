@@ -17,4 +17,5 @@ to http://localhost:4200/. Happy coding!
 - Esbuild Bundler
 - GitHub Actions with Nx Cloud
 - 🐙Testing Library for Cypress and StoryBook
-- 
+- [Sheriff](https://github.com/softarc-consulting/sheriff) to enforce enforces module boundaries and dependency rules in
+  TypeScript
