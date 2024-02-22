@@ -13,6 +13,6 @@ To start the development server run `nx serve angular-starter-template`. Open yo
 ## Features
 
 - [x] Nx Angular Standalone App 
-- [x] Cypress
-- [x] Esbuild
+- [x] Cypress for Component Testing
+- [x] Esbuild Bundler
 - [x] GitHub Actions
