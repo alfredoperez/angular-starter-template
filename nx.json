@@ -74,7 +74,7 @@
     }
   },
   "defaultProject": "angular-starter-template",
-  "nxCloudAccessToken": "ODFkY2YwZmUtMjIzOS00YTcyLWI1MDAtYzAzMzA5NWMyOWEwfHJlYWQtd3JpdGU=",
+  "neverConnectToCloud": true,
   "tasksRunnerOptions": {
     "default": {
       "options": {
