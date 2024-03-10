@@ -19,3 +19,14 @@ to http://localhost:4200/. Happy coding!
 - 🐙Testing Library for Cypress and StoryBook
 - [Sheriff](https://github.com/softarc-consulting/sheriff) to enforce enforces module boundaries and dependency rules in
   TypeScript
+
+# How to use this template
+
+Set a reference to this repository in your own repository by running the following command:
+
+```bash
+  git remote add template https://github.com/alfredoperez/angular-starter-template
+```
+
+- Refactor anywhere where it says `angular-starter-template` to your own app name.
+- Run `nx g @nrwl/nx-cloud:init`
